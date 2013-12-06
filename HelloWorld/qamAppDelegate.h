@@ -1,4 +1,5 @@
-//
+// You don't have to quit future todd.
+// --past todd
 //  qamAppDelegate.h
 //  HelloWorld
 //
