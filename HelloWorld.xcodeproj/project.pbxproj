@@ -261,6 +261,7 @@
 		1674412417A9C5D900230A26 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Todd Schultz (PUM7XA8EM5)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
@@ -272,6 +273,7 @@
 		1674412517A9C5D900230A26 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Todd Schultz (PUM7XA8EM5)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
@@ -299,6 +301,7 @@
 				1674412517A9C5D900230A26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
