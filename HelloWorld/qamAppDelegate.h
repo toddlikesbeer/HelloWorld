@@ -5,7 +5,7 @@
 //
 //  Created by Todd Schultz on 7/31/13.
 //  Copyright (c) 2013 QAMob.info. All rights reserved.
-//testing the jenk,. anotehr teswerqwer
+//testing the jenk,. anotehr teswerqwer. hreee now
 
 #import <UIKit/UIKit.h>
 
